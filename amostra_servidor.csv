@@ -1,0 +1,16 @@
+conexao;tempo;classificacao;servico;bytes.env;bytes.rec;taxa.sincronia;login
+1;1,16;normal;http;1877;4236;0,05;sim
+2;2,55;normal;http;1691;4226;0,05;sim
+3;1,42;normal;http;1896;4057;0,04;sim
+4;1,43;normal;http;1944;4328;0,03;sim
+5;0,10;normal;http;1916;4290;0,04;nao
+6;0,63;normal;http;1830;3987;0,01;sim
+7;2,61;normal;particular;3502;5878;0,07;nao
+8;10,56;longa;particular;8301;5127;0,08;nao
+9;24,91;longa;particular;7021;7532;0,08;sim
+10;19,88;longa;particular;5991;8033;0,07;nao
+11;0,10;normal;smtp;1760;233;0,05;sim
+12;3,94;normal;smtp;1690;298;0,05;sim
+13;10,49;longa;smtp;1832;555;0,06;sim
+14;8,77;normal;smtp;1901;385;0,06;nao
+15;3,23;normal;smtp;1832;398;0,06;sim
